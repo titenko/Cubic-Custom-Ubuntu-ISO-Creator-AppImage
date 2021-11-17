@@ -1,4 +1,6 @@
-# Cubic (Custom-Ubuntu-ISO-Creator) AppImage
+<div align="center">
+<h1>Cubic (Custom-Ubuntu-ISO-Creator) AppImage</h1>    
+</div>
 <div align="center">
     <h1>Cubic</h1>
     <img height="100" src="https://github.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/blob/master/cubic.png?raw=true">
