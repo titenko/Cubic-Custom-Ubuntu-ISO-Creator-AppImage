@@ -9,13 +9,9 @@ Cubic (Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu 
 
  <hr>
 <div align="center">
-    <a title="Download Cubic AppImage" href="https://github.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/releases">Download Cubic AppImage</a>
+    <h2><a title="Download Cubic AppImage" href="https://github.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/releases">Download Cubic AppImage</a></h2>
 </div>
-<hr>
 
-<div paypal="" style="text-align:center">
-<a href="https://www.paypal.com/donate/?token=5ZUZ9uLBZUVbhyygV5fJEjCpPZq1gFZHqsBIZ80Tt2zIMTkS4QFu3Hl6axl74h6VlWVQMBG8VV9bC6_z&locale.x=en_PL" style="text-decoration:none;"><span class="paypal-logo" style="font-family: Verdana, Tahoma; font-weight: bold; font-size: 28px;"><i style="color: #000; text-shadow: 1px 1px 1px #fff;">Donate </i><i style="color: #253b80; text-shadow: 1px 1px 1px #fff;">Pay</i><i style="color: #179bd7; text-shadow: 1px 1px 1px #fff;">Pal</i></span></a></div>
-</div>
     
 ## Start Page
 ![enter image description here](https://github.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/blob/master/img/StartPage.png?raw=true)
